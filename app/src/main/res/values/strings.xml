@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shillong Salah Time</string>
+    <string name="enter_date">ENTER DATE</string>
+    <string name="date">DATE</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="textview">TextView</string>
+    <string name="dd_mm_year">DD/ MM/ YYYY</string>
+    <string name="know_time">KNOW TIME</string>
+    <string name="sehree_last">SEHREE END :</string>
+    <string name="sunrise">SUNRISE :</string>
+    <string name="zohar">ZOHAR :</string>
+    <string name="asar">ASAR :</string>
+    <string name="maghrib">MAGHRIB :</string>
+    <string name="isha">ISHA :</string>
+    <string name="note_the_timings_given_above_are_the_starting_time_of_respective_prayers">**\u0020NOTE : The Timings shown above are the starting time of respective prayers. **</string>
+    <string name="note_fajr_time_starts_after_sehree_ends">**\u0020NOTE : Fajr Time Starts After Sehree Ends. **</string>
+
+</resources>
